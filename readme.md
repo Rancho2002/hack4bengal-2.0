@@ -47,3 +47,6 @@ python manage.py runserver 8001
 
 - [@rohitpd18](https://www.github.com/rohitpd18/)
 - [@rancho2002](https://www.github.com/rancho2002/)
+
+## Post Link
+https://www.linkedin.com/posts/rancho2002_hack4bengal-hack4bengal-connections-activity-7084773264203395072-vopT?utm_source=share&utm_medium=member_desktop
